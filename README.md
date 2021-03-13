@@ -23,7 +23,7 @@
 </p>
 
 <p align='center'>
-  **Linguagens e Ferramentas:**
+  Linguagens e Ferramentas:
 </p>
 
 <p align='center'>  
