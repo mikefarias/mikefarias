@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hi there 👋 I'm Mike 👨‍💻
+  Oi 👋 Eu sou Mike 👨‍💻
 </h1>
 
 <p align='center'>
@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/mike-farias/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/alexandresanlim">
+  <a href="malito:mikesantosfarias@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
@@ -22,7 +22,7 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=mikefarias&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/alexandresanlim/alexandresanlim"></a> hipsters and nerds have come here o/
+  <a href="#"><img src="https://badges.pufler.dev/visits/mikefarias/mikefarias"></a> hipsters and nerds have come here o/
 </p>
 
 <details>
