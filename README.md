@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A .NET developer from Aracaju, Brazil.
+  Desenvolvedor .NET e Java de Aracaju, Brazil.
 </p>
 
 
@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/mike-farias/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="malito:mikesantosfarias@gmail.com">
+  <a href="mailto:mikesantosfarias@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
