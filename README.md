@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  Desenvolvedor .NET e Java de Aracaju, Brasil.
+  Desenvolvedor .NET de Aracaju, Brasil.
 </p>
 
 
